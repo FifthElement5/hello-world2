@@ -7,6 +7,7 @@ Nice to meet you :smile: :smile: :heart: <br>
 
 
 [^1]: This is the footnote. 
+<hr> :cry:
  
 
  :joy: :heart: 
