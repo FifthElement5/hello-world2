@@ -1,21 +1,11 @@
-# demo :joy: :joy: :smile: 
- some description , some <br> descroption! <hr>
- some descrition
- <h1> Hello world</h1>
-Here's a sentence with a footnote. [^1]
+# Hello World :joy: :joy: :smile:  
+<h1>Hi Im Fifth Element</h1>
+Nice to meet you :smile: :smile: :heart: <br>
+<hr>
+ Im new to coding and Im doing my first CS50 course on Harvardx.
+
 
 [^1]: This is the footnote. 
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
-
-term
-: definition 
-
-- [x] Write the press release
-- [x] Update the website
-- [ ] Contact the media 
+ 
 
 That is so funny! :joy: 
